@@ -66,7 +66,7 @@
 
 Actwise provides an AI delivery infrastructure platform that enables teams to govern, reuse, and scale AI services. Their solution includes a shared foundation, reference architecture, and production‑grade components to accelerate AI deployments within weeks. Actwise emphasizes a governed delivery platform, reusable core services, and a collaborative approach to AI development, targeting enterprise customers seeking reliable, repeatable AI pipelines.
 
-**Areas:** AI · Platform · Governance · Enterprise · Delivery
+**Areas:** Artificial Intelligence · Platform · Governance · Enterprise · Delivery
 
 ## Actwise on APIs.io
 
@@ -79,6 +79,12 @@ Everything profiled for Actwise is published on APIs.io rather than in this repo
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [actwise-ai-mcp.yml](https://apis.io/servers/actwise-ai/actwise-ai-mcp-yml/)
 
 #### JSON Schema (4)
 
@@ -105,7 +111,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Actwise Ai Domain Security](https://apis.io/security/actwise-ai/actwise-ai-domain-security/)
+- [Actwise Domain Security](https://apis.io/security/actwise-ai/actwise-ai-domain-security/)
 
 ## Where to find this API
 
@@ -121,25 +127,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 39.5** — developing · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 29.9** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 47.5 |
-| Contract governance | 70.9 |
-| Operational transparency | 10.5 |
+| Discoverability | 67.9 |
+| Contract quality | 20.1 |
+| Contract governance | 22.0 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 21.1 |
+| Access clarity | 31.9 |
 
-**Agent readiness 35.4** — agent-ready
+**Agent readiness 31.7** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -157,6 +163,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
 
